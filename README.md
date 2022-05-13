@@ -30,9 +30,10 @@ When you are reviewing someone else's code, do not ever give a comment on _style
 
 You will just piss them off, make then unhappy, and lower their productivity.
 
-People need to feel like they _own_ the code they are working on to take responibility for it.
-If you start getting push them to change the style of their code, they will no longer feel like they _own_ the code.
+People need to feel that they _own_ the code they are working so that they will take responibility for it.
+If you start pushing them to change the style of their code they will no longer feel like they _own_ the code.
 They will feel you _own_ the code.
+And will not take responsibility for it.
 
 But you need them to feel like they _own_ the code, so that they will take responsibility for it.
 
