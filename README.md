@@ -6,7 +6,7 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 A guide on what to do and what to not do when doing a **code review**.
 
-## Accetable
+## Acceptable
 
 These are the things that are acceptable for you to comment on when you are **reviewing** someone else's **code**:
 
