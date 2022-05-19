@@ -22,7 +22,7 @@ These are the things that are acceptable for you to comment on when you are **re
 
 *  although do remember that there is often a trade-off between time complexity and space complexity, so there may always be some type of problem ⁠⁠— i.e., pick your poison — but you need to make sure that the trade-off made makes sense for the problem at hand
 
-6. race condition
+6. race conditions
 
 7. unnecessary coupling
 
