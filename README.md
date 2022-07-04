@@ -4,7 +4,7 @@ by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 ---
 
-A guide on what to do and what to not do when doing a **code review**.
+A guide on what to do and what to _not_ do when doing a **code review**.
 
 ## Acceptable
 
