@@ -12,6 +12,8 @@ These are the things that are acceptable for you to comment on when you are **re
 
 1. bugs
 
+* _"bugs"_ also includes whether the code actually does what was asked for.
+
 2. missing error handling
 
 3. resource leaks
