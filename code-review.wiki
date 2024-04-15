@@ -8,6 +8,6 @@ A **code review** is a type of [[peer-review]] done by one [[computer-programmer
 
 The purpose of a **code review** to find any defects (if there are any).
 
-For details on how to perform a **code review** is the **code review guide**:
+For details on how to perform a **code review** see the **code review guide**:
 
 • [[code-review/guide]]
