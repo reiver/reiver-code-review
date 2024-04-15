@@ -4,7 +4,7 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-The following is a guide on what to do and what //not// to do when doing a **code review**.
+The following is a guide on what to do and what //not// to do when doing a [[code-review]].
 
 §§ Acceptable
 
