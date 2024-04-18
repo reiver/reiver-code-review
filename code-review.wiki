@@ -4,7 +4,7 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-A **code review** is a type of [[peer-review]] done by one [[computer-programmer]] to of another computer-programmer's [[source-code]].
+A **code review** is a type of [[peer-review]] done by one [[computer-programmer]] of another computer-programmer's [[source-code]].
 
 The purpose of a **code review** to find any defects (if there are any).
 
